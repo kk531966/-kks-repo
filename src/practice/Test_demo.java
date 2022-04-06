@@ -19,7 +19,7 @@ public class Test_demo {
 	    	System.out.println(no+"is palindrom number");
 	    }
 	    else {
-	    	System.out.println(no+"is not palindrom number");
+	    	System.out.println(no+"is not palindrom number kkiran");
 	    }
 	}
 
